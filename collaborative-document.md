@@ -19,6 +19,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Miraj Shah
 - Anushka Katailiha
 - Declan Wardell
+- Matthew Nunes
 
 (add your name as a new bullet-point to the above list)
 
@@ -204,6 +205,8 @@ It also appears that the majority of constituencies in Yorkshire and the Humber 
 ### Matthew N
 
  248          Feltham & Heston
+ 
+ ![Matthew's graph of London constituencies](MatthewN-plot.png)
 
 ### Matthew Y
 
